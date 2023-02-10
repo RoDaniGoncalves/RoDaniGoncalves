@@ -6,7 +6,7 @@ FullStack Developer
 
 I started learning programming with the OneBitCode FullStack Developer course, i am currently attending the first period of Internet Systems by Fatec Lins Prof. Antônio Seabra.
 
-*   🌍  I'm based in B
+*   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [art\_rodani@hotmail.com](mailto:art_rodani@hotmail.com)
 *   🧠  I'm learning Internet Systems
 *   🤝  I'm open to collaborating on Projects for professional improvement and contact with the area.### Skills 
